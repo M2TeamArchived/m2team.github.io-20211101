@@ -1,1 +1,1 @@
-# m2team.github.com
+# M2-Team Pages
