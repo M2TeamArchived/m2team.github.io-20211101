@@ -1,0 +1,24 @@
+{
+  "name": "m2team.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev --no-cache",
+    "build": "vuepress build --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M2Team/m2team.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M2Team/m2team.github.io/issues"
+  },
+  "homepage": "https://github.com/M2Team/m2team.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}

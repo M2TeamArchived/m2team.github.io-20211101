@@ -1,0 +1,17 @@
+# Logs
+logs
+*.log
+
+# Yarn 1 files
+.yarn
+.yarn-integrity
+yarn-debug.log*
+yarn-error.log*
+
+# Node modules
+node_modules/
+
+# VuePress files
+.vuepress/.temp/
+.vuepress/.cache/
+.vuepress/dist/
