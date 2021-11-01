@@ -5,7 +5,8 @@ module.exports = {
   cache: '.vuepress/.cache',
   head: [
     ['link', { rel: 'icon', type: "image/x-icon", href: `/favicon.ico` }],
-    ['link', { rel: 'shortcut icon', type: "image/x-icon", href: `/favicon.ico` }]
+    ['link', { rel: 'shortcut icon', type: "image/x-icon", href: `/favicon.ico` }],
+    ['script', { src: '/js/download.js' }]
   ],
   locales: {
     '/en-us/': {
